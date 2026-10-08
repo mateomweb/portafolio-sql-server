@@ -23,3 +23,7 @@ Abre el script en SQL Server Management Studio y ejecútalo completo con **F5**.
 - Funciones de agregado: `AVG`, `COUNT`, `MAX` y `MIN`
 - Agrupar resultados con `GROUP BY`
 - `UPDATE` y `DELETE`
+
+## 📫 Contacto
+
+- GitHub: [mateomweb](https://github.com/mateomweb)
